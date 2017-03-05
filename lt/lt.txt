@@ -1,0 +1,1006 @@
+1	to promise ['prɔmɪs]	(pa)žadėti, prižadėti
+2	to propose [prə'pəuz]	(pa)siūlyti, pateikti
+3	to prove [pru:v]	įrodyti, patvirtinti
+4	to provide [prə'vaɪd]	ap(si)rūpinti, parūpinti, tiekti
+5	to publish ['pʌblɪ∫]	(pa)skelbti, išleisti (knygą), publikuoti
+6	to pull [pul]	(pa)traukti, (pa)tempti, vilkti
+7	to push [puʃ]	stumti(s), pastumti, stumdyti(s)
+8	to race [reɪs]	lenktyniauti, (nu)skubėti
+9	to raise [reɪz]	(pa)kelti, (pa)aukštinti
+10	to reach [ri:tʃ]	(pa)siekti (įv. reikšm.)
+11	to ready ['redɪ]	(pa)rengti, (pa)ruošti
+12	to realize ['rɪəlaɪz]	suprasti, įgyvendinti, realizuoti
+13	to receive [rɪ'si:v]	gauti, priimti
+14	to recognize ['rekəgnaɪz]	(at)pažinti, pripažinti
+15	to recommend [,rekə'mend]	rekomenduoti, patarti
+16	to reduce [rɪ'dju:s]	(su)mažinti, (su)silpninti
+17	to reflect [rɪ'flekt]	at(si)spindėti (įv. reikšm.), (pa)vaizduoti (literatūroje)
+18	to refuse [rɪ'fju:z]	at(si)sakyti, atmesti, nepriimti
+19	to regard [rɪ'ga:d]	atsižvelgti, paisyti, gerbti
+20	to relate [rɪ'leɪt]	(su)sieti, būti susijusiam
+21	to remain [rɪ'meɪn]	(pasi)likti, išlikti
+22	to remember [rɪ'membə]	at(si)minti,  prisiminti
+23	to repeat [rɪ'pi:t]	kartoti(s), pa(si)kartoti
+24	to replace [rɪ'pleɪs]	(pa)keisti, išstumti
+25	to reply [rɪ'plaɪ]	atsakyti
+26	to report [rɪ'pɔ:t]	pranešti, pateikti ataskaitą
+27	to represent [,reprɪ'zent]	atstovauti, reprezentuoti
+28	to respect [rɪ'spekt]	gerbti
+29	to rest [rest]	ilsėtis, poilsiauti
+30	to return [rɪ'tə:n]	(su)grįžti, (su)grąžinti
+31	to ride [raɪd]	joti, jodinėti, važiuoti
+32	to rise [raɪz]	(pa)kilti, iškilti
+33	to roll [rəul]	vynioti(s), riedėti, ridenti(s)
+34	to round [raund]	(su)apvalinti; aplenkti, apeiti (aplink)
+35	to save [seɪv]	(iš)gelbėti, tausoti, (su)taupyti
+36	to search [sə:tʃ]	(pa)ieškoti (for)
+37	to sell [sel]	parduoti, pardavinėti, realizuoti
+38	to send [send]	(pa)siųsti, išsiųsti, atsiųsti
+39	to separate ['sepərəɪt]	skirti, at(si)skirti, iš(si)skirti
+40	to serve [sə:v]	tarnauti, dirbti, patiekti (maistą)
+41	to service ['sə:vɪs]	aptarnauti, remontuoti
+42	to set [set]	(pa)statyti, nustatyti, (pa)ruošti
+43	to settle ['setl]	su(si)tvarkyti, nusistovėti, (nu)raminti
+44	to shake [ʃeɪk]	kratyti(s), purtyti
+45	to share [∫ɜə]	dalyti(s)
+46	to shoot [ʃu:t]	(nu)šauti, šaudyti
+47	to sign [saɪn]	pasirašyti, duoti ženklą (to, for), (pa)žymėti
+48	to sing [sɪŋ]	dainuoti
+49	to sit [sɪt]	sėdėti, sėsti(s), atsisėsti
+50	to sleep [sli:p]	miegoti, nakvoti
+51	to smile [smaɪl]	šypsotis
+52	to speak [spi:k]	kalbėti(s), šnekėti(s)
+53	to spend [spend]	(iš)leisti, naudoti
+54	to spread [spred]	(pa)tiesti, (iš)plisti, (už)tepti
+55	to stay [steɪ]	(pasi)likti, būti (kokiam)
+56	to stand [stænd]	stovėti, (atsi)stoti (up), (pa)kęsti
+57	to start [sta:t]	pradėti, imtis
+58	to step [step]	žengti, eiti, žingsniuoti
+59	to still [stɪl]	tildyti, raminti
+60	to strike [straɪk]	mušti, (su)duoti, smogti
+61	to study ['stʌdɪ]	mokytis, studijuoti
+62	to suffer ['sʌfə]	(iš)kęsti, (iš)kentėti, patirti
+63	to suggest [sə'dʒest]	(pa)siūlyti, patarti
+64	to supply [sə'plaɪ]	aprūpinti, tiekti (with), pristatyti
+65	to support [sə'pɔ:t]	(pa)laikyti, (pa)remti
+66	to suppose [sə'pəuz]	spėti, manyti, daryti prielaidą
+67	to surprise [sə'praɪz]	(nu)stebinti, nustebti
+68	to talk [tɔ:k]	kalbėti(s), šnekėti(s), pa(si)kalbėti
+69	to tax [tæks]	apmokestinti
+70	to teach [ti:tʃ]	(iš)mokyti, dėstyti
+71	to tend [tend]	prižiūrėti, rūpintis (kuo), slaugyti
+72	to test [test]	(iš)bandyti, (iš)mėginti
+73	to throw [θrəu]	mesti, sviesti, mėtyti
+74	to type [taɪp]	spausdinti/rinkti kompiuteriu
+75	to touch [tʌtʃ]	liesti(s), pri(si)liesti
+76	to trade [treɪd]	prekiauti, mainyti(s)
+77	to train [treɪn]	mokyti, ugdyti, treniruoti
+78	to treat [tri:t]	elgtis, (pa)vaišinti, gydyti (for)
+79	to trouble ['trʌbl]	kelti nerimą, trukdyti, kamuoti
+80	to understand [,ʌndə'stænd]	suprasti, nusimanyti
+81	to unite [ju:'naɪt]	jungti(s), su(si)jungti, vienyti(s)
+82	to value ['vælju:]	(į)vertinti, įkainoti
+83	to view [vju:]	apžiūrėti, (per)žiūrėti, apžvelgti
+84	to visit ['vɪzɪt]	lankyti(s), ap(si)lankyti
+85	to vote [vəut]	(nu)balsuoti
+86	to wait [weɪt]	(pa)laukti, sulaukti
+87	to walk [wɔ:k]	vaikščioti, eiti
+88	to wash [wɔʃ]	plauti(s), nuplauti, prausti(s)
+89	to wear [wɜə]	dėvėti, nešioti
+90	to win [wɪn]	laimėti, nugalėti, pasiekti pergalę
+91	to wish [wɪʃ]	norėti, trokšti, (pa)linkėti
+92	to wonder ['wʌndə]	domėtis, norėti žinoti, stebėtis
+93	to worry ['wʌrɪ]	nerimauti, jaudintis
+94	today [tə'deɪ]	šiandien(a), šiais laikais
+95	tooth [tu:θ]	dantis
+96	top [tɔp]	viršūnė, viršus
+97	total ['təutl]	(visa) suma, visas, visiškas
+98	towards [tə'wɔ:dz]	link, į, žymint tikslą (naud./bendrat.)
+99	town [taun]	miestelis
+100	trade [treɪd]	verslas, amatas, prekyba
+101	train [treɪn]	traukinys
+102	trial ['traɪəl]	teismas, teismo procesas, (iš)bandymas
+103	trip [trɪp]	kelionė, išvyka
+104	trouble ['trʌbl]	rūpestis, susirūpinimas, bėda
+105	true [tru:]	tikras, teisingas
+106	truth [tru:θ]	tiesa, teisybė
+107	Tuesday ['tju:zdɪ]	antradienis
+108	union ['ju:nɪən]	sąjunga, susivienijimas
+109	unit ['ju:nɪt]	mato vienetas
+110	university [,ju:nɪ'və:sətɪ]	universitetas
+111	unless [ən'les]	jei ne, nebent, išskyrus (kai)
+112	usual ['ju:ʒuəl]	įprastas, įprastinis, paprastas
+113	value ['vælju:]	vertingumas, vertė, kaina
+114	various ['vɜərɪəs]	įvairus, skirtingas
+115	view [vju:]	vaizdas, reginys, nuomonė
+116	visit ['vɪzɪt]	ap(si)lankymas, lankymasis, viešėjimas
+117	voice [vɔɪs]	balsas
+118	vote [vəut]	balsas, balsavimas
+119	wage [weɪdʒ]	darbo užmokestis, uždarbis, atlyginimas
+120	wall [wɔ:l]	siena, pertvara
+121	war [wɔ:]	karas, karo
+122	warm [wɔ:m]	šiltas, sušilęs, sušildytas
+123	wave [weɪv]	banga, mojavimas, garbana
+124	weapon ['wepən]	ginklas
+125	Wednesday ['wenzdɪ]	trečiadienis
+126	week [wi:k]	savaitė
+127	weekday ['wi:kdeɪ]	savaitės diena
+128	weight [weɪt]	svoris, sunkumas, svarba
+129	west [west]	vakarai, vakarų kryptis, vakarinis
+130	western ['westən]	vakarų, vakarietiškas
+131	whole [həul]	visas, ištisas, pilnas
+132	wide [waɪd]	platus, plačiai
+133	wife [waɪf]	žmona
+134	win [wɪn]	laimėjimas, pergalė
+135	wind [wɪnd]	vėjas
+136	window ['wɪndəu]	langas, vitrina
+137	wish [wɪʃ]	noras, troškimas, (pa)linkėjimas
+138	wonder ['wʌndə]	nuostaba, stebėjimasis, stebuklas
+139	worth [wə:θ]	vertė, vertas, nusipelnęs
+140	wrong [rɔŋ]	neteisus, klaidingas, negeras
+141	abroad [ə'brɔ:d]	užsienyje, į užsienį
+142	absolute ['æbsəlu:t]	absoliutus, visiškas
+143	accident ['æksɪdənt]	atsitikimas (t.p. nelaimingas), atvejis, atsitiktinumas
+144	ache [eɪk]	skausmas
+145	actor ['æktə]	aktorius
+146	adventure [əd'ventʃə]	nuotykis
+147	advice [əd'vaɪs]	patarimas (piece of – tik vns.)
+148	afraid [ə'freɪd]	išsigandęs, apgailestauti (to be)
+149	agent ['eɪdʒənt]	atstovas, tarpininkas, agentas
+150	agriculture ['ægrɪkʌltʃə]	žemės ūkis, žemdirbystė
+151	aim [eɪm]	tikslas, siekimas, taikinys
+152	airplane ['ɜəpleɪn]	lėktuvas
+153	alike [ə'laɪk]	panašus, toks pat, vienodas
+154	alive [ə'laɪv]	gyva(s), judrus
+155	allowance [ə'lauəns]	pašalpa, išmoka, kišenpinigiai
+156	ancient ['ein∫ənt]	labai senas, senovinis, antikinis
+157	anger ['æŋgə]	pyktis
+158	angle ['æŋgl]	kampas
+159	angry ['æŋgrɪ]	piktas, susierzinęs
+160	anybody ['enɪbɔdɪ]	kas nors (klaus. sakinyje), niekas (neig. sakinyje)
+161	anyway ['enɪweɪ]	 bet kokiu būdu, bet kuriuo atveju
+162	anywhere ['enɪwɜə]	kur nors (klaus. sakinyje), niekur (neig. sakinyje), bet kur
+163	apart [ə'pa:t]	nuošaliai, atskirai, išskyrus
+164	appearance [ə'pɪərəns]	pasirodymas, išvaizda
+165	applause [ə'plɔ:z]	plojimai, aplodismentai
+166	apple ['æpl]	obuolys
+167	application [,æplɪ'keɪ∫n]	prašymas, paraiška
+168	April ['eɪprəl]	balandis (mėnuo)
+169	arrest [ə'rest]	suėmimas, areštas
+170	arrow ['ærəu]	strėlė
+171	article ['a:tɪkl]	straipsnis
+172	artificial [,a:tɪ'fɪʃl]	dirbtinis, netikras, apsimestinis
+173	ashamed [ə'ʃeɪmd]	susigėdęs, sugėdintas
+174	aside [ə'saɪd]	į šalį, šalin, šalia
+175	asleep  [ə'sli:p]	miegantis
+176	attractive [ə'træktɪv]	patrauklus, viliojantis, žavus
+177	August ['ɔ:gəst]	rugpjūtis (mėnuo)
+178	aunt [a:nt]	teta
+179	autumn ['ɔ:təm]	ruduo
+180	avenue ['ævənju:]	alėja, prospektas
+181	baby ['beɪbɪ]	kūdikis, vaikas, vaikiškas
+182	backward ['bækwəd]	atgalinis, atbulinis
+183	bag [bæg]	krepšys, maišas, rankinė
+184	band [bænd]	raištis; grupė (muz.), orkestras
+185	bargain ['ba:gɪn]	sandoris, susitarimas; pigus pirkinys
+186	bath [ba:θ]	vonia
+187	battle ['bætl]	kova, mūšis
+188	bay [beɪ]	įlanka
+189	beard [bɪəd]	barzda
+190	beat [bi:t]	mušimas, smūgis, pulsavimas
+191	bedroom ['bedru:m]	miegamasis kambarys
+192	being ['bi:ɪŋ]	buvimas, būtis, būtybė
+193	belief [bɪ'li:f]	tikėjimas, įsitikinimas, nuomonė
+194	bell [bel]	varpelis, skambutis
+195	belt [belt]	diržas, sąsiauris
+196	bend [bend]	(su)lenkimas, užlenkimas, vingis
+197	beneath [bɪ'nɪ:θ]	po, žemiau, apačioje
+198	beside [bɪ'saɪd]	šalia, ties, prie
+199	besides [bɪ'saɪdz]	be to, dar
+200	birth [bə:θ]	gimdymas, gimimas
+201	birthday [bə:θdei]	gimimo diena, gimtadienis
+202	bite [baɪt]	(į)kandimas, įgėlimas, kąsnis
+203	bitter ['bɪtə]	kartus, aitrus, įsižeidęs
+204	blade [bleɪd]	ašmenys, geležtė
+205	blind [blaɪnd]	aklas, žaliuzės (dgs.)
+206	blow [bləu]	pūtimas, dvelkimas, smūgis
+207	bone [bəun]	kaulas, kaulinis
+208	border ['bɔ:də]	siena, riba
+209	boring ['bɔ:rɪŋ]	nuobodus, įkyrus
+210	bottle ['bɔtl]	butelis
+211	bottom ['bɔtəm]	dugnas, apačia, apatinis
+212	bound [baund]	riba, apribojimas
+213	box [bɔks]	dėžė, dėžutė
+214	brain [breɪn]	smegenys
+215	branch [bra:ntʃ]	šaka, sritis; filialas
+216	brass [bra:s]	žalvaris, žalvarinis
+217	brave [breɪv]	drąsus, narsus
+218	bread [bred]	duona
+219	breath [breθ]	kvėpavimas, įkvėpimas
+220	brick [brɪk]	plyta, plytinis
+221	brown [braun]	rudas
+222	brush [brʌʃ]	šepetys, teptukas
+223	burst [bə:st]	sprogimas, (pra)trūkimas
+224	bus [bʌs]	autobusas
+225	businessman ['bɪznɪsmən]	verslininkas
+226	busy ['bɪzɪ]	užsiėmęs, užimtas (telefonas), judrus (eismas)
+227	butter ['bʌtə]	sviestas
+228	button ['bʌtn]	saga; mygtukas
+229	cake [keɪk]	pyragas, tortas
+230	calculation [,kælkju'leɪ∫n]	(ap)skaičiavimas, suskaičiavimas
+231	calm [ka:m]	ramus, tylus; ramybė
+232	cap [kæp]	kepurė
+233	captain ['kæptɪn]	vadas, kapitonas
+234	card [ka:d]	korta, kortelė, vizitinė kortelė
+235	careful ['kɜəfəl]	atsargus, atidus, kruopštus
+236	castle ['ka:sl]	pilis, rūmai
+237	cat [kæt]	katė, katinas
+238	cattle ['kætl]	galvijai
+239	cave [keɪv]	urvas, ola
+240	certainty ['sə:tntɪ]	užtikrintumas, tikrumas, neabejotinas faktas
+241	chain [tʃeɪn]	grandinė(lė), seka, grandininis
+242	chair [tʃɜə]	kėdė
+243	chairman ['t∫ɜəmən]	pirmininkas
+244	charm [tʃa:m]	žavumas, žavesys, burtai
+245	cheap [tʃɪ:p]	pigus, prastas, pigiai
+246	cheer [t∫ɪə]	džiaugsmo/pritarimo šūksnis
+247	cheese [tʃi:z]	sūris
+248	chest [t∫est]	krūtinės ląsta; skrynia, dėžė
+249	chicken ['tʃɪkɪn]	višta, viščiukas, vištiena
+250	childhood ['t∫aɪlhud]	vaikystė
+251	Christmas ['krɪsməs]	Kalėdos
+252	clever ['klevə]	sumanus, gabus, protingas
+253	clock [klɔk]	laikrodis (sieninis, stalinis)
+254	cloth [klɔθ]	audinys, skuduras
+255	cloud [klaud]	debesis
+256	coast [kəust]	pakrantė, pajūrys
+257	coffee ['kɔfɪ]	kava
+258	coin [kɔɪn]	moneta, metalinis pinigas
+259	collection [kə'lek∫n]	rinkinys, kolekcija; (su)rinkimas
+260	collector [kə'lektə]	rinkėjas, kolekcionierius; kolektorius
+261	commerce ['kɔmə:s]	komercija, prekyba
+262	commercial [kə'mə:∫l]	komercinis, prekybinis
+263	comparison [kəm'pærɪsn]	(pa)lyginimas, (su)gretinimas
+264	competition [,kɔmpə'tɪʃn]	rungtynės, lenktynės; varžovai
+265	complaint [kəm'pleɪnt]	skundas, nusiskundimas, nepasitenkinimas
+266	confidence ['kɔnfɪdəns]	pa(si)tikėjimas, pasikliovimas, įsitikinimas
+267	confident ['kɔnfɪdənt]	įsitikinęs, tikras, pasitikintis
+268	confusion [kən'fju:ʒn]	(su)painiojimas, (su)maišymas; sumišimas
+269	connection [kə'nek∫n]	ryšys, (pri)jungimas (to); pažintys (džn. dgs.)
+270	content ['kɔntent]	turinys
+271	conversation [,kɔnvə'seɪʃn]	pokalbis, pasikalbėjimas
+272	cook [kuk]	virėjas
+273	copy ['kɔpɪ]	kopija, nuorašas, egzempliorius
+274	correct [kə'rekt]	teisingas, teisus, tikslus
+275	cotton ['kɔtn]	medvilnė
+276	cough [kɔf]	kosulys
+277	courage ['kʌrɪdʒ]	drąsa, narsa
+278	cousin ['kʌzn]	pusbrolis, pusseserė
+279	cow [kau]	karvė
+280	crash [kræ∫]	susidūrimas, avarija, trenksmas
+281	cream [kri:m]	grietinė, grietinėlė, kremas
+282	crime [kraɪm]	nusikaltimas
+283	criminal ['krɪmɪnl]	nusikaltėlis, nusikalstamas, kriminalinis
+284	cup [kʌp]	puodelis, puodukas, taurė (prizas)
+285	curious ['kjuərɪəs]	smalsus, kurioziškas
+286	curtain ['kə:tn]	užuolaida, uždanga
+287	curve [kə:v]	kreivė
+288	custom ['kʌstəm]	paprotys, įprastas dalykas; muitinė (tik. dgs.)
+289	customary ['kʌstəmərɪ]	įprastinis, tradicinis, įprastas (elgesys)
+290	customer ['kʌstəmə]	klientas, pirkėjas
+291	damage ['dæmɪdʒ]	nuostolis, žala, sugadinimas
+292	to damage ['dæmɪdʒ]	(su)gadinti, apgadinti, pakenkti
+293	daughter ['dɔ:tə]	dukra
+294	dear [dɪə]	brangus, mielas; brangusis (kreip.)
+295	debt [det]	skola, įsiskolinimas
+296	December [dɪ'sembə]	gruodis (mėnuo)
+297	deer [dɪə]	elnias
+298	delicate ['delɪkət]	subtilus, rafinuotas, trapus
+299	delight [dɪ'laɪt]	džiaugsmas, gėrėjimasis, malonumas
+300	delivery [dɪ'lɪvərɪ]	pristatymas, (at)gabenimas, įteikimas
+301	dependence [dɪ'pendəns]	priklausomybė, priklausymas (on, upon – nuo)
+302	depth [depθ]	gylis, gelmės, sodrumas (spalvų, garso)
+303	description [dɪ'skrɪp∫n]	aprašymas, apibūdinimas, pavaizdavimas
+304	desert ['dezət]	dykuma, negyvenama vieta
+305	desk [desk]	rašomasis stalas
+306	despite [dɪ'spaɪt]	nepaisant, nors ir
+307	destruction [dɪ'strʌk∫n]	griovimas, (su)naikinimas
+308	devil ['devl]	velnias, nelabasis
+309	dictionary ['dɪkʃənərɪ]	žodynas
+310	dirty ['də:tɪ]	purvinas, nešvarus, nepadorus
+311	discipline ['dɪsɪplɪn]	drausmė, disciplina, disciplina (mokslo)
+312	discovery [dɪ'skʌvərɪ]	atradimas, (su)radimas
+313	dish [dɪ∫]	valgis, patiekalas, indai (dgs.)
+314	distant ['dɪstənt]	tolimas, nutolęs
+315	double ['dʌbl]	dvigubas (t.p. kiekis), dubleris
+316	dozen ['dʌzn]	tuzinas
+317	drum [drʌm]	būgnas
+318	duck [dʌk]	antis, antiena
+319	dust [dʌst]	dulkės
+320	duty ['dju:tɪ]	pareiga, prievolė
+321	ear [ɪə]	ausis, klausa (muz.)
+322	eastern ['i:stən]	rytinis, rytų
+323	efficiency [ɪ'fɪ∫ənsɪ]	veiksmingumas, efektyvumas, produktyvumas
+324	efficient [ɪ'fɪ∫ənt]	veiksmingas, efektyvus, produktyvus
+325	egg [eg]	kiaušinis, kiaušinėlis
+326	elephant ['elɪfənt]	dramblys
+327	elsewhere [,els'wɜə]	kitur
+328	empty ['emptɪ]	tuščias
+329	engine ['endʒɪn]	variklis, motoras, mašina
+330	entrance ['entrəns]	įėjimas, įžengimas, įvažiavimas (vieta/veiksmas)
+331	envy ['envɪ]	pavydas
+332	everybody ['evrɪbɔdɪ]	kiekvienas, visi
+333	everyone ['evrɪwʌn]	kiekvienas, visi
+334	everywhere ['evrɪwɜə]	visur
+335	evil ['i:vl]	blogis, blogybė, blogas
+336	excellent ['eksələnt]	puikus, aukštos kokybės
+337	exception [ɪk'sep∫n]	išimtis
+338	exchange [ɪks't∫eɪndʒ]	keitimas(is), ap(si)keitimas, pa(si)keitimas
+339	excuse [ɪk'skju:s]	pa(si)teisinimas, dingstis, atsiprašymas
+340	expense [ɪk'spens]	išlaidos
+341	expensive [ɪk'spensɪv]	brangus
+342	expression [ɪk'spre∫n]	posakis, išsireiškimas, išraiška
+343	extra ['ekstrə]	 papildomas, papildomai, priedas
+344	extraordinary [ɪk'strɔ:dnri]	nepaprastas, ypatingas
+345	factory ['fæktərɪ]	fabrikas, gamykla
+346	failure ['feɪljə]	nepasisekimas, nesėkmė, susikirtimas (egzamine)
+347	false [fɔ:ls]	klaidingas, neteisingas, melagingas
+348	familiar [fə'mɪlɪə]	(gerai) žinomas, pažįstamas, susipažinęs (with)
+349	fan [fæn]	aistruolis, sirgalius; ventiliatorius
+350	fashion ['fæ∫n]	mada
+351	fat [fæt]	riebalai, storas, nusipenėjęs
+352	fate [feɪt]	likimas, lemtis
+353	fault [fɔ:lt]	kaltė, nusižengimas, defektas
+354	favourite ['feɪvərɪt]	mėgstam(iausi)as (t.p. dalykas), numylėtinis
+355	February ['februərɪ]	vasaris (mėnuo)
+356	female ['fɪ:meɪl]	moteris, moteriškas; patelė
+357	fence [fens]	tvora, užtvara
+358	fever ['fi:və]	karščiavimas, temperatūra, karštligė
+359	fish [fɪʃ]	žuvis
+360	flag [flæg]	vėliava
+361	flame [fleɪm]	liepsna
+362	flat [flæt]	butas; plokščias, lygus
+363	flavor ['fleɪvə]	skonis, aromatas
+364	flood [flʌd]	potvynis
+365	flour ['flauə]	miltai, milteliai
+366	flow [fləu]	(į)tekėjimas, tėkmė, srautas
+367	flower ['flauə]	gėlė
+368	fool [fu:l]	kvailys, juokdarys
+369	forest ['fɔrɪst]	miškas
+370	fork [fɔ:k]	šakutė
+371	formal ['fɔ:ml]	oficialus, formalus
+372	forth [fɔ:θ]	į priekį, pirmyn, tolyn
+373	frequency ['fri:kwənsɪ]	dažnumas, (dažnas) pasikartojimas, dažnis
+374	fresh [freʃ]	šviežias, gaivus, naujas
+375	friendly ['frendlɪ]	draugiškas, bičiuliškas; draugiškai
+376	friendship ['frendʃɪp]	draugystė, draugiškumas
+377	fruit [fru:t]	vaisius, vaisiai, rezultatai (prk.)
+378	fun [fʌn]	malonumas, smagumas, linksmybės
+379	funeral ['fju:nərəl]	laidotuvės
+380	funny ['fʌnɪ]	juokingas, linksmas, smagus
+381	fur [fə:]	kailis
+382	furniture ['fə:nɪtʃə]	baldai
+383	garage ['gæra:ʒ]	garažas
+384	gate [geɪt]	vartai, varteliai
+385	generous ['dʒenərəs]	kilnus, kilniaširdi(ška)s, dosnus
+386	gentle ['dʒentl]	švelnus, geras, romus
+387	gentleman ['dʒentlmən]	džentelmenas, ponas
+388	gift [gɪft]	dovana
+389	glad [glæd]	patenkintas, džiugus, laimingas
+390	gold [gəuld]	auksas (ir prk.), aukso spalva
+391	golden ['gəuldən]	auksinis, aukso
+392	grand [grænd]	grandiozinis, milžiniškas, didysis
+393	grass [gra:s]	žolė, veja
+394	grateful  ['greɪtfəl]	dėkingas (to – kam, for – už)
+395	gray [greɪ]	pilkas, pilka spalva; žilas
+396	guard [ga:d]	sargyba, sargybinis, apsauga
+397	guest [gest]	svečias, viešnia
+398	guide [gaɪd]	gidas, vadovas, orientyras
+399	guilt [gɪlt]	kaltė
+400	habit ['hæbɪt]	įprotis (t.p. žalingas), pripratimas
+401	hammer ['hæmə]	plaktukas, kūjis
+402	hat [hæt]	skrybėlė, kepurė
+403	hate [heɪt]	neapykanta
+404	headache ['hedeɪk]	galvos skausmas, rūpestis
+405	heaven ['hevn]	dangus, rojus
+406	height [haɪt]	aukštis, ūgis
+407	highway ['haɪweɪ]	magistralė, autostrada, greitkelis
+408	hole [həul]	skylė, anga
+409	holiday  ['hɔlədeɪ]	atostogos, šventė, poilsio diena
+410	homework ['həumwə:k]	namų darbai
+411	honest ['ɔnɪst]	sąžiningas, atviras, nuoširdus
+412	hunger ['hʌŋgə]	alkis, badas
+413	hungry ['hʌŋgrɪ]	alkanas, išalkęs
+414	hurry ['hʌrɪ]	skubėjimas, skubotumas, (pa)skubomis (in)
+415	hurt [hə:t]	skausmas; sužeistas, įžeistas
+416	ice [aɪs]	ledas
+417	ill [ɪl]	sergantis, nesveikas
+418	illness ['ɪlnɪs]	liga
+419	imitation [,ɪmɪ'teɪ∫n]	(pa)mėgdžiojimas, imitavimas, imitacija
+420	impolite [,ɪmpə'laɪt]	nemandagus
+421	impossible [ɪm'pɔsəbl]	negalimas, neįmanomas, neįvykdomas
+422	inquiry [ɪn'kwaɪərɪ]	pasiteiravimas, (už)klausimas, apklausa
+423	insect ['ɪnsekt]	vabzdys
+424	instrument ['ɪnstrəmənt]	įrankis, instrumentas (ir muz.)
+425	insurance [ɪn'∫ɔ:rəns]	(ap)draudimas
+426	intention [ɪn'tenʃn]	ketinimas, noras, intencija
+427	introduction [,intrə'dʌk∫n]	įvedimas, įžanga, supažindinimas
+428	invention [ɪn'ven∫n]	išradimas
+429	iron ['aɪən]	geležis, geležinis
+430	January ['dʒænjuərɪ]	sausis (mėnuo)
+431	joint [dʒɔɪnt]	sąnarys, sandūra, jungtinis
+432	journey ['dʒə:nɪ]	kelionė
+433	juice [dʒu:s]	sultys
+434	July [dʒu:'laɪ]	liepa (mėnuo)
+435	jump [dʒʌmp]	šuolis
+436	June [dʒu:n]	birželis (mėnuo)
+437	key [ki:]	raktas, klavišas; svarbiausias
+438	king [kɪŋ]	karalius
+439	kingdom ['kɪŋdəm]	karalystė
+440	kiss [kis]	bučinys
+441	kitchen ['kɪtʃɪn]	virtuvė, virtuvinis
+442	knee [ni:]	kelis
+443	knife [naɪf]	peilis
+444	knock [nɔk]	(pasi)beldimas, (pa)barškinimas, smūgis
+445	ladder ['lædə]	kopėčios, (karjeros) laiptai
+446	lake [leɪk]	ežeras
+447	lamp [læmp]	lempa, žibintas
+448	laugh [la:f]	juokas, kvatojimas
+449	lawyer ['lɔ:jə]	advokatas, teisininkas, juristas
+450	leadership ['li:də∫ɪp]	vadovavimas, vadovybė, lyderystė
+451	leaf [li:f]	lapas (augalo)
+452	leather ['leðə]	oda (medžiaga), odinis
+453	lesson ['lesn]	pamoka, pamokymas
+454	liberty ['lɪbətɪ]	laisvė
+455	library ['laɪbrərɪ]	biblioteka
+456	lid [lɪd]	dangtis, dangtelis
+457	lift [lɪft]	(pa)kėlimas, kilnojimas
+458	lip [lɪp]	lūpa
+459	liquid ['lɪkwɪd]	skystis, skystas
+460	literary ['lɪtərərɪ]	literatūrinis, literatūros
+461	loaf [ləuf]	kepalas, batonas
+462	loan [ləun]	paskola, (pa)skolinimas
+463	log [lɔg]	rąstas, kaladė
+464	lonely ['ləunlɪ]	vienišas, atsiskyręs, nuošalus
+465	loose [lu:s]	laisvas, nepririštas, palaidas
+466	loud [laud]	garsus, skambus
+467	loyal ['lɔɪəl]	ištikimas, lojalus (to – kam)
+468	loyalty ['lɔɪəltɪ]	ištikimybė, lojalumas
+469	luck [lʌk]	laimė, sėkmė
+470	lunch [lʌntʃ]	priešpiečiai
+471	machinery [mə'∫i:nərɪ]	mašinos, įrengimai, mechanizmai
+472	mad [mæd]	pamišęs, beprotis, beprotiškas
+473	mail [meɪl]	paštas, korespondencija
+474	male [meɪl]	vyras, vyriškis
+475	map [mæp]	žemėlapis, planas
+476	March [ma:tʃ]	kovas (mėnuo)
+477	march [ma:tʃ]	maršas, žygis
+478	meal [mi:l]	valgis, valgymas
+479	meanwhile ['miːnwaɪl]	tuo tarpu
+480	meat [mi:t]	mėsa
+481	medicine ['medsɪn]	medicina, vaistas
+482	membership ['membə∫ɪp]	narystė
+483	message ['mesɪdʒ]	pranešimas, žinutė
+484	metal ['metl]	metalas, metalinis
+485	milk [mɪlk]	pienas
+486	mill [mɪl]	malūnas, malūnėlis
+487	mine [maɪn]	mano; kasykla, šachta
+488	minister ['mɪniɪstə]	ministras
+489	mistake [mɪ'steɪk]	klaida
+490	modest ['mɔdɪst]	kuklus, drovus; nedidelis (kiekis)
+491	moreover [mɔ:'rəuvə]	be to, dar daugiau
+492	motion ['məu∫n]	judėjimas, judesys
+493	mouse [maus]	pelė (t.p. kompiuterio)
+494	mud [mʌd]	purvas
+495	musician [mju:'zɪʃn]	muzikantas
+496	nail [neɪl]	nagas, vinis
+497	narrow ['nærəu]	siauras, ankštas
+498	native ['neɪtɪv]	gimtas(is), čiabuvis
+499	neck [nek]	kaklas, sprandas
+500	needle ['ni:dl]	adata, rodyklė
+501	neighbor ['neɪbə]	kaimynas
+502	neighbourhood ['neɪbəhud]	kaimynystė
+503	nephew ['nefju:]	sūnėnas
+504	nest [nest]	lizdas
+505	network ['netwə:k]	tinklas (kompiuterių, prekybos, pažinčių)
+506	nice [naɪs]	geras, gražus, malonus
+507	niece [ni:s]	dukterėčia
+508	nobody ['nəubədɪ]	niekas
+509	noise [nɔɪz]	triukšmas, garsas
+510	noon [nu:n]	vidurdienis, pusiaudienis
+511	northern ['nɔ:ðən]	šiaurės, šiaurinis
+512	nose [nəuz]	nosis
+513	November [nəu'vembə]	lapkritis (mėnuo)
+514	nowhere ['nəuwɜə]	niekur
+515	nurse [nə:s]	medicinos sesuo, slaugė, auklė
+516	nut [nʌt]	riešutas
+517	ocean ['əuʃn]	vandenynas
+518	October [ɔk'təubə]	spalis (mėnuo)
+519	onto ['ɔntu]	ant, į
+520	opposite ['ɔpəzɪt]	priešingas, esantis prieš
+521	opposition [,ɔpə'zɪ∫n]	opozicija, priešinimasis, pasipriešinimas
+522	orange ['ɔrɪndʒ]	apelsinas, oranžinė spalva, oranžinis
+523	ordinary ['ɔ:dənrɪ]	paprastas, įprastas, kasdieninis
+524	otherwise ['ʌðəwaɪz]	kitaip, kitoniškai, priešingu atveju
+525	ownership ['əunə∫ɪp]	nuosavybė
+526	pack [pæk]	paketas, pakelis
+527	package ['pækɪdʒ]	paketas, siuntinys, įpakavimas
+528	pair [pɜə]	pora, porinis
+529	pale [peɪl]	išblyškęs, blyškus, išbalęs
+530	pan [pæn]	keptuvė
+531	particle ['pa:tɪkl]	dalelė, dalelytė
+532	partner ['pa:tnə]	partneris, kolega
+533	passage [pæsɪdʒ]	pasažas, praėjimas, perėjimas
+534	passenger ['pæsɪndʒə]	keleivis
+535	path [pa:θ]	takas, takelis, kelias (prk.)
+536	patience ['peɪʃns]	kantrybė, kantrumas
+537	pause [pɔ:z]	pauzė, pertrauka
+538	pen [pen]	tušinukas, rašiklis
+539	pencil ['pensəl]	pieštukas
+540	perfect ['pə:fɪkt]	tobulas, idealus, nepriekaištingas
+541	permanent ['pə:mənənt]	nuolatinis, pastovus, ilgalaikis
+542	permission [pə'mɪ∫n]	leidimas
+543	pet [pet]	kambarinis gyvūnas
+544	pig [pɪg]	kiaulė, paršas
+545	pile [paɪl]	krūva, šūsnis (of - ko)
+546	pin [pɪn]	segtukas, smeigtukas
+547	pink [pɪŋk]	rožinė spalva, rožinis, rausvas
+548	plain [pleɪn]	paprastas, aiškus; lygus (apie vietovę)
+549	plate [pleɪt]	lėkštė, plokštė (metalo)
+550	pleasant ['pleznt]	malonus
+551	pleasure ['pleʒə]	malonumas
+552	plenty ['plentɪ]	gausumas, gausa, daugybė (of)
+553	pocket ['pɔkɪt]	kišenė
+554	poison ['pɔɪzn]	nuodai
+555	polite [pə'laɪt]	mandagus, išauklėtas
+556	politics ['pɔlɪtɪks]	politika, politinė veikla
+557	pot [pɔt]	puodas, puodynė, vazonas
+558	powder ['paudə]	milteliai, pudra
+559	presence ['prezns]	buvimas, dalyvavimas
+560	preserve [prɪ'zə:v]	konservai, uogienė
+561	pride [praɪd]	išdidumas, pasididžiavimas, savigarba
+562	prison ['prɪzn]	kalėjimas, nelaisvė
+563	prize [praɪz]	prizas, premija, apdovanojimas
+564	profit ['prɔfɪt]	nauda, pelnas
+565	proof [pru:f]	įrodymas
+566	protection [prə'tek∫n]	(ap)gynimas, (ap)saugojimas, apsauga
+567	proud [praud]	besididžiuojantis, išdidus
+568	pump [pʌmp]	siurblys, pompa
+569	puzzle ['pʌzl]	mįslė, galvosūkis, dėlionė
+570	qualification [,kwɔlɪfɪ'keɪ∫n]	kvalifikacija (t.p. jos turėjimas/suteikimas)
+571	quantity ['kwɔntətɪ]	kiekis, kiekybė
+572	quarter ['kwɔ:tə]	ketvirtis, ketvirtadalis (of), kėlinys (krepšinio)
+573	queen [kwi:n]	karalienė
+574	rabbit ['ræbɪt]	triušis, kiškis, triušiena
+575	railway ['reɪlweɪ]	geležinkelis
+576	rain [reɪn]	lietus
+577	rare [rɜə]	retas, praretėjęs; ne visai išvirtas/iškeptas
+578	raw [rɔ:]	žalias, pusžalis (apie maistą), žaliava (material)
+579	reduction [ri'dʌk∫n]	(su)mažinimas, (su)mažėjimas
+580	reference ['refrəns]	užuomina, charakteristika, rekomendacija
+581	regret [rɪ'gret]	apgailestavimas, gailėjimasis
+582	relief [rɪ'li:f]	(pa)lengvėjimas, (pa)lengvinimas (skausmo)
+583	reminder [rɪ'maɪndə]	priminimas
+584	rent [rent]	nuoma, nuompinigiai
+585	repair [rɪ'pɜə]	remontas, taisymas
+586	republic [rɪ'pʌblɪk]	respublika
+587	reputation [,repju'teɪ∫n]	reputacija, geras vardas
+588	request [rɪ'kwest]	prašymas, pageidavimas, (pa)reikalavimas
+589	reserve [rɪ'zə:v]	atsarga, rezervas, draustinis
+590	resistance [rɪ'zɪstəns]	pasipriešinimas, priešinimasis; atsparumas
+591	restaurant ['restərɔnt]	restoranas
+592	review [rɪ'vju:]	apžvalga, peržiūra
+593	reward [rɪ'wɔ:d]	atpildas, atlygis, apdovanojimas
+594	ribbon ['rɪbən]	kaspinas, juosta
+595	rice [raɪs]	ryžiai
+596	rich [rɪtʃ]	turtingas, gausus
+597	ring [rɪŋ]	žiedas (įv. reikšm.); skambėjimas, skambesys
+598	risk [rɪsk]	rizika, pavojus
+599	roof [ru:f]	stogas
+600	root [ru:t]	šaknis (ir mat.)
+601	rough [rʌf]	šiurkštus, nelygus, grubus
+602	royal ['rɔɪəl]	karališkas
+603	rubber ['rʌbə]	guma, kaučiukas, trintukas
+604	rude [ru:d]	nemandagus, storžieviškas, šiurkštus
+605	rust [rʌst]	rūdys
+606	sad [sæd]	liūdnas, nusiminęs
+607	safe [seɪf]	saugus, patikimas; seifas
+608	safety ['seɪftɪ]	saugumas, sauga
+609	sake [seɪk]	dėl ko nors, kieno/ko labui (for)
+610	salary ['sælərɪ]	alga, atlyginimas
+611	salesman ['seɪlzmən]	pardavėjas
+612	salt [sɔ:lt]	druska
+613	sand [sænd]	smėlis
+614	satisfaction [,sætɪs'fæk∫n]	pa(si)tenkinimas
+615	sauce [sɔ:s]	padažas
+618	scale [skeɪl]	mastas, skalė; svarstyklės (dgs.)
+619	scientific [,saɪən'tɪfɪk]	mokslinis
+620	scientist ['saɪəntɪst]	mokslininkas
+621	screen [skri:n]	ekranas
+622	screw [skru:]	sraigtas, varžtas, veržlė
+623	seat [si:t]	vieta atsisėsti, sėdynė, vieta (ir prk.)
+624	seed [si:d]	sėkla
+625	seldom ['seldəm]	retai, nedažnai
+626	self [self]	(aš) pats, (mano) asmenybė
+627	sensitive ['sensɪtɪv]	jautrus (t.p. klausimas), švelnus, įžeidus
+628	separation [,sepə'reɪʃn]	at(si)skyrimas, per(si)skyrimas, iš(si)skyrimas
+629	September [sep'tembə]	rugsėjis (mėnuo)
+630	severe [sɪ'vɪə]	sunkus, skaudus, griežtas
+631	shadow ['∫ædəu]	šešėlis
+632	shame [ʃeɪm]	gėda, apmaudas
+633	sheep [ʃi:p]	avis (t.p. dgs.)
+634	sheet [ʃi:t]	paklodė, lapas (popieriaus)
+635	shelf [ʃelf]	lentyna
+636	shell [∫el]	kiautas, lukštas, kevalas
+637	shine [∫aɪn]	šviesa, švytėjimas, spindesys
+638	shirt [ʃə:t]	marškiniai, palaidinė
+639	shoe [∫u:]	batas, avalynė
+640	shout [ʃaut]	šauksmas, rėksmas
+641	shower ['ʃəuə]	dušas, liūtis
+642	sick [sɪk]	sergantis, nesveikas
+643	signature ['sɪgnətʃə]	parašas
+644	silence ['saɪləns]	tyla, tylėjimas
+645	silent ['saɪlənt]	tylus, nešnekus, begarsis
+646	silver ['sɪlvə]	sidabras, sidabrinė spalva
+647	sink [sɪŋk]	kriauklė
+648	sir [sə]	seras, ponas
+649	sister ['sɪstə]	sesuo
+650	skin [skɪn]	oda, žievelė
+651	skirt [skə:t]	sijonas
+652	sky [skaɪ]	dangus, padangė
+653	slide [slaɪd]	slydimas, čiuožimas; skaidrė
+654	smell [smel]	kvapas, uoslė
+655	smoke [sməuk]	dūmai, garai; (pa)rūkymas
+656	smooth [smu:ð]	lygus, glotnus, vienalytis
+657	snake [sneɪk]	gyvatė
+658	snow [snəu]	sniegas
+659	soap [səup]	muilas
+660	soil [sɔɪl]	dirvožemis, žemė; nešvarumas
+661	solution [sə'lu:∫n]	(iš)sprendimas, sprendinys
+662	somebody ['sʌmbədɪ]	kažkas, kas nors
+663	somehow ['sʌmhau]	kaip nors, kažkaip
+664	somewhere ['sʌmwɜə]	kur nors, kažkur
+665	soul [səul]	siela, dvasia
+666	soup [su:p]	sriuba
+667	speech [spi:t∫]	(pra)kalba, pasisakymas
+668	spell [spel]	burtažodis, kerai; trumpas laikotarpis
+669	sport [spɔ:t]	sportas
+670	stair [stɜə]	laiptelis, pakopa
+671	stamp [stæmp]	pašto ženklas, antspaudas
+672	star [sta:]	žvaigždė, įžymybė
+673	steady ['stedɪ]	nuolatinis, pastovus, stabilus
+674	steam [sti:m]	garas
+675	steel [sti:l]	plienas
+676	stomach ['stʌmək]	skrandis, pilvas
+677	stone [stəun]	akmuo
+678	storm [stɔ:m]	audra, vėtra
+679	stream [stri:m]	upelis, srovė; srautas
+680	strict [strɪkt]	griežtas, reiklus, tikslus
+681	string [strɪŋ]	styga, virvė, virvelė
+682	stupid ['stju:pɪd]	kvailas, neprotingas
+683	substance ['sʌbstəns]	medžiaga; pagrindas, esmė
+684	sugar ['ʃugə]	cukrus
+685	suggestion [sə'dʒest∫n]	(pa)siūlymas, patarimas
+686	sweat [swet]	prakaitas, (su)prakaitavimas
+687	sweet [swi:t]	saldainis, saldus, malonus
+688	swing [swɪŋ]	sūpynės, supimasis
+689	sympathy ['sɪmpəθɪ]	užuojauta, gailestis (for)
+690	tail [teɪl]	uodega, kasytė
+691	tall [tɔ:l]	aukštas
+692	tap [tæp]	čiaupas; tapšnojimas (per petį)
+693	taste [teɪst]	skonis
+694	taxi ['tæksɪ]	taksi
+695	tea [ti:]	arbata
+696	tear [tɜə]	ašara; įplyšimas, įdrėskimas
+697	tent [tent]	palapinė
+698	terrible ['terəbl]	šiurpus, pasibaisėtinas, baisus
+699	theatre ['θɪətə]	teatras
+700	throat [θrəut]	gerklė, ryklė
+701	thumb [θʌm]	nykštys
+702	thunder ['θʌndə]	griaustinis
+703	ticket ['tɪkɪt]	bilietas
+704	tie [taɪ]	kaklaraištis; ryšiai (dgs.); lygiosios
+705	tight [taɪt]	ankštas, aptemptas, siauras
+706	till [tɪl]	iki, kol; kasa (parduotuvėje)
+707	tip [tɪp]	patarimas; galiukas; arbatpinigiai
+708	tired ['taɪəd]	nuvargęs, pavargęs, pabodęs (of)
+709	to accuse [ə'kju:z]	(ap)kaltinti
+710	to ache [eɪk]	skaudėti, gelti
+711	to admire [əd'maɪə]	žavėtis, su(si)žavėti, grožėtis
+712	to admit [əd'mɪt]	priimti, sutikti, pri(si)pažinti
+713	to adopt [ə'dɔpt]	į(si)vaikinti
+714	to advertise ['ædvətaɪz]	reklamuoti
+715	to advise [əd'vaɪz]	pa(si)tarti, konsultuoti
+716	to afford [ə'fɔ:d]	pajėgti, (iš)galėti, įstengti
+717	to appoint [ə'pɔɪnt]	(pa)skirti (kuo), nustatyti, nurodyti
+718	to arise [ə'raɪz]	(iš)kilti, pasirodyti
+719	to arrest [ə'rest]	suimti, areštuoti
+720	to attract [ə'trækt]	(pa)traukti, (pri)traukti (apie magnetą ir pan.)
+721	to awake [ə'weɪk]	(pa)budinti, (pa)žadinti, sužadinti
+722	to bake [beɪk]	kepti
+723	to beat [bi:t]	mušti, daužyti
+724	to beg [beg]	maldauti, prašyti (for – ko)
+725	to behave [bɪ'heɪv]	elgtis
+726	to belong [bɪ'lɔŋ]	priklausyti
+727	to bite [baɪt]	(į)kąsti, (į)gelti
+728	to blame [bleɪm]	laikyti kaltu, kaltinti
+729	to bleed [bli:d]	kraujuoti, netekti kraujo
+730	to blow [bləu]	pūsti, dvelkti; sprog(din)ti
+731	to boast [bəust]	girti(s), didžiuotis
+732	to boil [bɔɪl]	vir(in)ti, užvir(in)ti
+733	to borrow ['bɔrəu]	skolintis, pasiskolinti
+734	to breathe [bri:ð]	(pa)kvėpuoti, įkvėpti
+735	to brush [brʌʃ]	valyti (šepečiu, šepetėliu), šukuoti (plaukus)
+736	to burst [bə:st]	(su)sprogti, (per)plyšti
+737	to bury ['berɪ]	(pa)laidoti, užkasti
+738	to calculate ['kælkjuleɪt]	(ap)skaičiuoti, suskaičiuoti
+739	to charm [tʃa:m]	(su)žavėti, (už)burti
+740	to climb [klaɪm]	(už)kopti, (už)lipti
+741	to collect [kə'lekt]	(su)rinkti, kolekcionuoti
+742	to complain [kəm'pleɪn]	skųstis, nusiskųsti
+743	to complicate ['kɔmplɪkeɪt]	komplikuoti(s)
+744	to compose [kəm'pəuz]	sudaryti, (su)komponuoti, (su)kurti
+745	to confuse [kən'fju:z]	painioti(s), su(si)painioti
+746	to connect [kə'nekt]	(su)jungti, pri(si)jungti
+747	to cook [kuk]	virti, kepti, gaminti valgį
+748	to copy ['kɔpɪ]	(nu)kopijuoti, (pa)daryti kopiją, nusirašinėti
+749	to correct [kə'rekt]	(iš)taisyti, pataisyti
+750	to cough [kɔf]	kosėti, atsikosėti
+751	to crash [kræ∫]	sudužti, sudaužyti
+752	to cry [kraɪ]	verkti, rėkti, maldauti (for)
+753	to cure [kjuə]	(iš)gydyti, pagydyti
+754	to dare [dɜə]	(iš)drįsti, turėti drąsos
+755	to decrease [dɪ'kri:s]	(su)mažėti, (su)mažinti
+756	to defeat [dɪ'fɪ:t]	nugalėti, įveikti
+757	to delay [dɪ'leɪ]	atidė(lio)ti, užlaikyti, (už)delsti
+758	to deliver [dɪ'lɪvə]	(iš)nešioti (korespondenciją), pristatyti (prekes)
+759	to deserve [dɪ'zə:v]	už(si)tarnauti, nusipelnyti
+760	to dig [dɪg]	(iš)kasti
+761	to dine [daɪn]	pietauti
+762	to disagree [,dɪsə'gri:]	nesutarti, nesutikti (with – su)
+763	to disappear [,dɪsə'pɪə]	(pra)dingti, (iš)nykti
+764	to disappoint [,dɪsə'pɔɪnt]	apvilti, nuvilti
+765	to disgust [dɪs'gʌst]	(su)kelti pasibjaurėjimą, bjaurėtis, šlykštėtis
+766	to dismiss [dɪs'mɪs]	atmesti, laikyti nesvarbiu
+767	to distinguish [dɪ'stɪŋgwɪʃ]	(at)skirti, daryti skirtumą (between)
+768	to disturb [dɪ'stə:b]	(su)trukdyti, (su)trikdyti
+769	to dive [daɪv]	(pa)nerti, nardyti
+770	to divide [dɪ'vaɪd]	dalyti(s), pa(si)dalyti (into, in – į, among, between – tarp)
+771	to earn [ə:n]	už(si)dirbti, už(si)tarnauti
+772	to educate ['edjukeɪt]	auklėti, ugdyti, mokyti
+773	to empty ['emptɪ]	(iš)tuštinti, išpilti
+774	to entertain [,entə'teɪn]	vaišinti, užimti (with), linksminti
+775	to envy ['envɪ]	pavydėti
+776	to exchange [ɪks't∫eɪndʒ]	keistis, (apsi)keisti, mainytis
+777	to excite [ɪk'saɪt]	jaudinti(s), būti susijaudinusiam
+778	to excuse [ɪk'skju:s]	(pa)teisinti, atleisti
+779	to explode [ɪk'spləud]	sprogti (apie bombą), (su)sprogdinti
+780	to explore [ɪk'splɔ:]	(iš)tirti, tyrinėti
+781	to faint [feɪnt]	(nu)alpti
+782	to fasten ['fa:sn]	su(si)rišti, su(si)sagstyti, prisisegti (saugos diržą)
+783	to fish [fɪʃ]	žvejoti
+784	to flow [fləu]	tekėti, lietis
+785	to fool [fu:l]	(ap)kvailinti, apgauti
+786	to forbid [fə'bɪd]	(už)drausti, neleisti
+787	to forgive [fə'gɪv]	atleisti, dovanoti
+788	to freeze [fri:z]	(už)šalti, (su)šaldyti, sustingti
+789	to frighten ['fraɪtn]	(iš)gąsdinti, bauginti, išsigąsti
+790	to gather ['gæðə]	rinkti(s), su(si)rinkti
+791	to grave [greɪv]	įstrigti (atmintyje), (pa)daryti įspūdį (on, in)
+792	to greet [gri:t]	sveikinti(s), sutikti
+793	to guess [ges]	(at)spėti, spėlioti
+794	to hate [heɪt]	ne(ap)kęsti, nemėgti
+795	to hesitate ['hezɪteɪt]	(su)dvejoti, nesiryžti
+796	to hide [haɪd]	slėpti(s), nuslėpti, pa(si)slėpti
+797	to hire ['haɪə]	(pa)samdyti, nu(si)samdyti; (išsi)nuomoti (valtį ir pan.)
+798	to host [həust]	priimti svečius, būti šeimininku; būti vedėju
+799	to hunt [hʌnt]	medžioti
+800	to hurry ['hʌrɪ]	(pa)skubinti, (pa)skubėti
+801	to hurt [hə:t]	skaudėti, sužeisti, įžeisti
+802	to inquire [ɪn'kwaɪə]	teirautis, (pa)klausti
+803	to insure [ɪn'∫uə]	drausti(s), ap(si)drausti
+804	to interrupt [,ɪntə'rʌpt]	pertraukti, nutraukti, įsiterpti
+805	to introduce [,ɪntrə'dju:s]	įvesti (naujovę),supažindinti, prisistatyti
+806	to invent [ɪn'vent]	išrasti, prasimanyti
+807	to invite [ɪn'vaɪt]	(pa)kviesti
+808	to iron ['aɪən]	lyginti (drabužius)
+809	to joint [dʒɔɪnt]	sunerti, sujungti
+810	to joke [dʒəuk]	juokauti
+811	to jump [dʒʌmp]	šokinėti, užšokti (on)
+812	to kick [kɪk]	(pa)spirti
+813	to kiss [kis]	bučiuoti(s)
+814	to knock [nɔk]	(pa)belsti, (pa)barbenti
+815	to lean [li:n]	(pa)linkti, pasilenkti (over), at(si)remti
+816	to lend [lend]	(pa)skolinti, suteikti
+817	to lift [lɪft]	(pa)kelti, kilnoti
+818	to loose [lu:s]	paleisti, duoti laisvę
+819	to melt [melt]	(iš)tirpti, tirpdyti, lydyti(s)
+820	to mistake [mɪ'steɪk]	(su)klysti, (su)klaidinti
+821	to mix [mɪks]	maišyti, su(si)maišyti
+822	to multiply ['mʌltɪplaɪ]	(pa)dauginti, sudauginti
+823	to neglect [nɪ'glekt]	nesirūpinti, neprižiūrėti, apleisti
+824	to noise [nɔɪz]	triukšmauti
+825	to obey [ə'beɪ]	klausyti, paklusti
+826	to offend [ə'fend]	įžeisti, užgauti
+827	to ought [ɔ:t]	reikėti, privalėti, derėti
+828	to overcome [,əuvə'kʌm]	nugalėti, įveikti (kliūtis)
+829	to owe [əu]	būti skolingam
+830	to pack [pæk]	pakuoti(s), su(si)dėti
+831	to package ['pækɪdʒ]	(į)pakuoti, supakuoti
+832	to paste [peɪst]	(pri)klijuoti, suklijuoti, įklijuoti
+833	to pause [pɔ:z]	(pa)daryti pauzę/pertrauką, stabtelėti
+834	to persuade [pə'sweɪd]	į(si)tikinti, įkalbėti (into)
+835	to photograph ['fəutəgra:f]	fotografuoti
+836	to pour [pɔ:]	(į)pilti, pripilti
+837	to pray [preɪ]	melstis, poteriauti
+838	to prefer [prɪ'fə:]	labiau mėgti, teikti pirmenybę
+839	to pretend [prɪ'tend]	apsimesti, dėtis
+840	to print [prɪnt]	(iš)spausdinti
+841	to pronounce [prə'nauns]	(iš)tarti, paskelbti, pareikšti
+842	to protect [prə'tekt]	(ap)ginti, (ap)saugoti
+843	to punish ['pʌnɪʃ]	(nu)bausti
+844	to qualify ['kwɔlɪfaɪ]	įgyti/turėti/suteikti kvalifikaciją/teisę (as, for)
+845	to refresh [rɪ'freʃ]	(at)gaivinti, atsigaivinti atšviežinti
+846	to remind [rɪ'maɪnd]	priminti
+847	to rent [rent]	nuomoti, iš(si)nuomoti
+848	to repair [rɪ'pɜə]	(su)remontuoti, (pa)taisyti
+849	to reproduce [,ri:prə'dju:s]	atgaminti, atkurti, atstatyti
+850	to request [rɪ'kwest]	prašyti, (mandagiai) (pa)reikalauti
+851	to reserve [rɪ'zə:v]	taupyti, saugoti, rezervuoti vietą
+852	to resign [rɪ'zaɪn]	atsisakyti (pareigų, teisės), atsistatydinti
+853	to resist [rɪ'zɪst]	priešintis, pasipriešinti, atsispirti
+854	to retire [rɪ'taɪə]	pasitraukti (iš pareigų), išeiti (į pensiją), atsistatydinti
+855	to review [rɪ'vju:]	apžvelgti, peržiūrėti
+856	to risk [rɪsk]	rizikuoti
+857	to root [ru:t]	knisti(s), knaisioti(s), leisti šaknis
+858	to row [rəu]	irtis, irkluoti
+859	to rub [rʌb]	trinti(s), įtrinti (into)
+860	to rust [rʌst]	rūdyti
+861	to sail [seɪl]	(iš)plaukti, plaukioti, buriuoti
+862	to satisfy ['sætɪsfaɪ]	pa(si)tenkinti, atitikti (reikalavimus)
+863	to saw [sɔ:]	pjauti, pjaustyti (pjūklu)
+864	to scale [skeɪl]	sverti
+865	to scratch [skrætʃ]	kasyti(s), nu(si)brozdinti
+866	to screw [skru:]	(už)sukti, įsukti, prisukti
+867	to seed [si:d]	(pa)sėti (sėklas), apsėti (lauką)
+868	to shave [ʃeɪv]	skusti(s), (nu)drožti
+869	to shell [∫el]	iš(si)lukštenti, gliaudyti
+870	to shine [∫aɪn]	šviesti, spindėti
+871	to shock [∫ɔk]	sukrėsti, pritrenkti, šokiruoti
+872	to shout [ʃaut]	šaukti, sušukti, rėkti
+873	to shut [ʃʌt]	už(si)daryti, už(si)verti
+874	to sink [sɪŋk]	(nu)skęsti
+875	to slide [slaɪd]	slidinėti, slysti, čiuožti
+876	to slip [slɪp]	(pa)slysti, praslysti
+877	to smell [smel]	kvepėti, smirdėti, užuosti
+878	to smoke [sməuk]	(su)rūkyti, rūkti
+879	to solve [sɔlv]	(iš)spręsti, išaiškinti
+880	to spare [spɜə]	skirti (kam) laiko/dėmesio, pa(si)gailėti
+881	to spill [spɪl]	išlieti, išpilti
+882	to spin [spɪn]	sukti(s)
+883	to split [splɪt]	skelti, plėšti, pa(si)dalyti
+884	to spoil [spɔɪl]	(su)gadinti
+885	to stream [stri:m]	tekėti, srūti
+886	to strip [strɪp]	nuplėšti, nu(si)lupti, nu(si)rengti
+887	to struggle ['strʌgl]	kovoti, grumtis, dėti pastangas
+888	to succeed [sək'si:d]	pasisekti, pavykti, būti sėkmingam
+889	to surround [sə'raund]	(ap)supti
+890	to suspect [sə'spekt]	įtarti (of – kuo), abejoti
+891	to swallow ['swɔləu]	(nu)ryti, praryti
+892	to sweat [swet]	(su)prakaituoti
+893	to sweep [swi:p]	(pa)šluoti, valyti
+894	to swim [swɪm]	(nu)plaukti, plaukioti
+895	to swing [swɪŋ]	supti(s), linguoti, siūbuoti
+896	to taste [teɪst]	(pa)ragauti
+897	to thank [θæŋk]	(pa)dėkoti, būti dėkingam
+898	to tie [taɪ]	(su)rišti, pririšti (to)
+899	to tire ['taɪə]	(nu)varginti, pavargti
+900	to translate [træns'leɪt]	(iš)versti
+901	to trust [trʌst]	(pasi)tikėti
+902	to upset [ʌp'set]	nuliūdinti, prislėgti
+903	to urge [ə:dʒ]	primygtinai siūlyti/reikalauti, (pa)raginti
+904	to wake [weɪk]	(pa)busti, (pa)budinti, (pa)žadinti
+905	to warn [wɔ:n]	įspėti, perspėti
+906	to waste [weɪst]	eikvoti, švaistyti
+907	to weaken ['wi:kən]	(su)silpninti, nusilpninti
+908	to weigh [weɪ]	sverti(s), pasverti
+909	to whisper ['wɪspə]	šnabždėti(s), (pa)kuždėti, pasakyti slapčia
+910	to whistle ['wɪsl]	švilpauti, (su)švilpti
+911	to wipe [waɪp]	šluostyti, (nu)valyti
+912	to wound [wu:nd]	sužeisti
+913	to yield [ji:ld]	nusileisti (to – kam, in – kuo), pasiduoti
+914	toe [təu]	kojos pirštas, (bato) nosis
+915	tomorrow [tə'mɔrəu]	rytoj
+916	ton [tɔn]	tona, daugybė (džn. dgs.; of – ko)
+917	tongue [tʌŋ]	liežuvis
+918	tonight [tə'naɪt]	šįvakar, šiąnakt
+919	tool [tu:l]	įrankis, įnagis
+920	tough [tʌf]	kietas, tvirtas, sunkus
+921	tour [tuə]	kelionė, turnė, turas
+922	towel ['tauəl]	rankšluostis
+923	tower ['tauə]	bokštas
+924	translation [træns'leɪʃn]	vertimas
+925	trap [træp]	spąstai, pinklės
+926	trunk [trʌŋk]	liemuo, kamienas
+927	trunk [trʌŋk]	kamienas; bagažinė
+928	trust [trʌst]	pa(si)tikėjimas, tikėjimas
+929	tube [tju:b]	vamzdis, metro (Londono)
+930	ugly ['ʌglɪ]	bjaurus, negražus
+931	umbrella [ʌm'brelə]	skėtis
+932	uncle ['ʌŋkl]	dėdė
+933	universal [,ju:nɪ'və:sl]	visuotinis, universalus, visapusiškas
+934	universe ['ju:nɪvə:s]	visata, kosmosas
+935	upper ['ʌpə]	viršutinis, aukštutinis
+936	upset [,ʌp'set]	nuliūdęs, prislėgtas, sutrikęs (skrandis)
+937	urgent ['ə:dʒənt]	neatidė(lio)tinas, skubus
+938	valley ['vælɪ]	slėnis
+939	valuable ['væljuəbl]	vertingas, brangus
+940	variety [və'raɪətɪ]	įvairumas, įvairovė, daugybė
+941	verb [və:b]	veiksmažodis
+942	victory ['vɪktərɪ]	pergalė
+943	village ['vɪlɪdʒ]	kaimas, gyvenvietė
+944	violence ['vaɪələns]	smurtas
+945	virtue ['və:t∫u:]	dorybė, gera savybė, privalumas
+946	visitor ['vɪzɪtə]	lankytojas, svečias
+947	waist [weɪst]	talija, juosmuo
+948	waiter ['weɪtə]	padavėjas
+949	waste [weɪst]	švaistymas, nuostoliai, atliekos
+950	wax [wæks]	vaškas
+951	weak [wi:k]	silpnas
+952	wealth [welθ]	turtas, turtai, lobiai
+953	weather ['weðə]	orai
+954	weekend [,wi:k'end]	savaitgalis
+955	welcome ['welkəm]	priėmimas, sutikimas; laukiamas
+956	wet [wet]	šlapias, drėgnas
+957	wheel [wi:l]	ratas
+958	whenever [wen'evə]	kada gi, kai tik
+959	wherever [wɜər'evə]	kurgi, kur tik
+960	whisper ['wɪspə]	šnabždesys, šnibždėjimas
+961	whistle ['wɪsl]	švilpimas, švilpukas
+962	width [wɪtθ]	plotis
+963	wild [waɪld]	laukinis, pasiutęs
+964	wine [waɪn]	vynas
+965	wing [wɪŋ]	sparnas
+966	winter ['wɪntə]	žiema, žieminis
+967	wire [waɪə]	viela, laidas
+968	wisdom ['wɪzdəm]	išmintis, išmintingumas
+969	wise [waɪz]	išmintingas
+970	witness ['wɪtnɪs]	liudytojas, liudininkas
+971	wood [wud]	mediena, malkos, miškas (dgs.)
+972	wooden ['wudn]	medinis
+973	wool [wul]	vilna
+974	worse [wə:s]	blogesnis, prastesnis; blogiau
+975	wound [wu:nd]	žaizda, sužeidimas
+976	wrap [ræp]	(su)sukti, (su)vynioti, įvynioti (in)
+977	wrist [rɪst]	riešas, rankogalis
+978	yellow ['jeləu]	geltona spalva, geltonas
+979	yesterday ['jestədeɪ]	vakar
+980	yield [ji:ld]	derlius; kiekis, išeiga
+981	zero ['zɪərəu]	nulis, nulinis
+982	contract ['kɔntrækt]	kontraktas, sutartis, sandoris
+983	handshake ['hændʃeɪk]	rankos paspaudimas
+984	grammar ['græmə]	gramatika
+985	noun [naun]	daiktavardis
+986	to bribe [braɪb]	duoti kyšį, papirkti
+987	to congratulate [kən'grætʃuleɪt]	(pa)sveikinti (on, upon); didžiuotis (on – kuo)
+988	congratulation [kən'grætʃu'leɪtʃn]	(pa)sveikinimas
+989	hesitation [,hezɪ'teɪʃn]	dvejojimas, neryžtingumas
+990	bribe [braɪb]	kyšis, papirkimas
+991	government [ˈgʌvnmənt]	politika
+992	parliament [ˈpa:ləmənt]	parlamentas
+993	president [ˈprezɪdənt]	prezidentas, pirmininkas
+994	economic [ˌi:kəˈnɔmɪk]	ekonomika
+995	nationality [ˌnæʃəˈnælətɪ]	pilietybė, tautybė
+996	obligation [ˌɔblɪˈgeɪʃn]	į(si)pareigojimas
+997	punishment [ˈpʌnɪʃmənt]	nubaudimas, bausmė
+998	downtown [ˈdauntaun]	komercinė/prekybinė miesto dalis; miesto centras
+999	bench [bentʃ]	suolas
+1000	traffic [ˈtræfɪk]	eismas, judėjimas
+1001	cinema [ˈsɪnɪmə]	kinas, kino teatras
+1002	museum [mju:ˈzɪəm]	muziejus
+1003	exhibition [ˌeksɪˈbɪʃn]	paroda, pa(si)rodymas
+1004	circus [ˈsə:kəs]	cirkas
+1005	kindergarten [ˈkɪndəgɑ:tn]	vaikų darželis
+1006	school [sku:l]	mokykla
+1007	newborn [ˈnju:bɔ:n]	naujagimis
+1008	unemployed [ˌʌnɪmˈplɔɪd]	bedarbis
